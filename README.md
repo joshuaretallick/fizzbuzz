@@ -1,6 +1,6 @@
 # fizzbuzz
 
-The exercise allows users to understand the concepts of pair programming, rpec and TDD.
+The exercise allows users to understand the concepts of pair programming, rspec and TDD.
 
 ## How to use ##
 
